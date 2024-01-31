@@ -69,8 +69,7 @@ ol {
   overflow: auto; 
   position: relative;
   padding-inline-start:0px;
-  margin-block-start: 0px;
-  margin-block-end: 0px;
+  margin-block: 0px;
 }
 
 .content__details {
