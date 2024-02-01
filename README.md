@@ -27,7 +27,7 @@
 
 ## Установка
 
-1. Клонируйте репозиторий: git clone https://github.com/yourusername/ono-tebe-nado.git
+1. Клонируйте репозиторий
 2. Открыть файл index.html в вашем браузере.
 
 ## Лицензия
